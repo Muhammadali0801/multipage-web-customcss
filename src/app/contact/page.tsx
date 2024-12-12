@@ -5,7 +5,7 @@ const ContactPage = () => {
     <div className="contact-page">
       <h1 className="contact-heading">Thank You for Reaching Out!</h1>
       <p className="contact-paragraph">
-        We value your feedback and inquiries. Please fill out the form below, and we'll get back to you as soon as possible.
+        We value your feedback and inquiries. Please fill out the form below, and we&apos;ll get back to you as soon as possible.
       </p>
       <form className="contact-form">
         <label htmlFor="name" className="form-label">
