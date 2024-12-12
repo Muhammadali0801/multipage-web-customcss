@@ -4,8 +4,8 @@ import React, { useState, useEffect } from 'react';
 // banner slider images
 const images: string[] = [
   '/banner-images/big-sale.png',
-  '/banner-images/brown-white.png',
-  '/banner-images/red-white.png',
+  '/banner-images/Brown-white.png',
+  '/banner-images/Red-White.png',
   '/banner-images/shoe-banner.png',
 ];
 
